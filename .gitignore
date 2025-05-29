@@ -36,6 +36,3 @@ out/
 
 ### VS Code ###
 .vscode/
-microservices/algasensors-device-management/.gradle
-microservices/algasensors-temperature-monitoring/.gradle
-microservices/algasensors-temperature-processing/.gradle
